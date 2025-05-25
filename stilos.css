@@ -1,0 +1,120 @@
+
+
+div {
+background-color: rgba(227, 229, 231, 0.575);
+padding: 10px;
+margin: 0%;
+font-family:'', cursive;
+font-weight: 600;
+color: rgb(9, 216, 9);
+list-style: none;
+min-height: 100px;
+text-decoration: none;
+
+border-radius: 5px;
+border-width: 3px;
+box-shadow:  0 0 60px rgba(2, 23, 145, 0.295);
+
+
+}
+
+.navbar-nav{
+     border-width: 3px;
+    box-shadow:inset  0 0 60px rgba(2, 145, 33, 0.404);
+
+
+
+}
+
+
+body  {
+    background-color: rgb(252, 252, 252);
+    padding: 2%;
+    margin: 0%;
+}
+
+
+
+
+.nav-link{
+
+    color: rgba(24, 3, 214, 0.966);
+}
+
+
+span{
+    color: rgba(0, 153, 255, 0.966);
+    text-decoration: solid;
+    font-weight: 1000;
+}
+
+
+.titulos1 {
+    margin: 1px;
+    padding: 0%;
+    display: inline-block ;
+    
+       
+    color: rgba(9, 13, 216, 0.856);
+    font-style: unset;
+    font-weight: 700;
+    text-decoration: rgba(233, 10, 103, 0.74);
+    
+}
+
+p{
+    font-weight: 500;
+    font-family: cursive , 100;
+    border-width: 3px;
+    box-shadow:  0 0 60px rgba(2, 145, 33, 0.404);
+}
+
+
+.dir {
+    
+    border: 1px,solid;
+    border-color: rgba(191, 12, 207, 0.678);
+    padding-left: 8%;
+    margin: 10%;
+    border-width: 1px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.452);
+  
+    
+}
+
+.cont {
+ 
+ background-color: rgba(206, 6, 89, 0.815);
+ display: inline;
+ border-radius: 10%;
+ color: black;
+ text-decoration: none;
+  
+ padding: 1%;
+ margin: 30%;
+ font-weight: 500;
+}
+
+.hoja{
+display: inline-block;    
+background-color: rgba(24, 34, 177, 0.37);
+border-radius: 10%;
+text-decoration: none;
+color: black;
+font-family: cursive;
+padding: 8px;
+margin: 40px;
+}
+.inicio{
+    margin: 1px;
+    padding: 5%;
+    display: inline-block ;
+    
+       
+    color: black;
+    font-style: unset;
+    font-weight: 700;
+    text-decoration: rgba(233, 10, 103, 0.74);
+    box-shadow: 0 0 40px rgba(2, 145, 33, 0.404);
+    
+}
