@@ -158,3 +158,28 @@ body {
 
 
 
+/****FOTO DE PERFIL******/
+
+.foto-perfil {
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+    object-position: 20% 80%;
+    border-radius: 50%;
+    border: 4px solid #38bdf8;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
+
+.foto-perfil:hover {
+    transform: scale(1.05);
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.fot19 {
+    color: #38bdf8;
+}
