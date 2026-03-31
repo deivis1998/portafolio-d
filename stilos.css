@@ -69,3 +69,92 @@ body {
     background: #0ea5e9;
     transform: scale(1.05);
 }
+
+
+/*PORTAFOLIO*/
+.portafolio {
+    background: #0f172a;
+    color: white;
+}
+
+.card-custom {
+    background: #1e293b;
+    padding: 25px;
+    border-radius: 15px;
+    transition: 0.3s;
+    height: 100%;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.card-custom h3 {
+    color: #38bdf8;
+    margin-bottom: 10px;
+}
+
+.card-custom p {
+    color: #cbd5e1;
+}
+
+/* EFECTO RESALTAR AL PASAR EL MAUSE  */
+.card-custom:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 20px 40px rgba(56,189,248,0.2);
+}
+
+
+
+
+
+
+.contacto {
+    text-align: center;
+    color: white;
+}
+
+.contact-card {
+    max-width: 500px;
+    margin: auto;
+    background: #1e293b;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+/* BOTÓN CORREO */
+.btn-contacto {
+    display: inline-block;
+    margin: 10px 0 20px;
+    background: #38bdf8;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-contacto:hover {
+    background: #0ea5e9;
+    transform: scale(1.05);
+}
+
+/* BOTÓN WHATSAPP */
+.btn-whatsapp {
+    display: inline-block;
+    margin-top: 15px;
+    background: #25d366;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-whatsapp:hover {
+    background: #1ebe5d;
+    transform: scale(1.05);
+}
+
+
+
